@@ -1,0 +1,39 @@
+# See the schematic for the pin assignment.
+
+NET "ssp_frame"     LOC = "P31";
+NET "ssp_din"       LOC = "P32";
+NET "ssp_dout"      LOC = "P34";
+NET "pck0"          LOC = "P36";
+
+NET "spck"          LOC = "P39";
+NET "miso"          LOC = "P40";
+NET "mosi"          LOC = "P43";
+NET "ncs"           LOC = "P44";
+NET "adc_clk"       LOC = "P46";
+NET "adc_noe"       LOC = "P47";
+
+NET "adc_d<7>"      LOC = "P53";
+NET "adc_d<6>"      LOC = "P54";
+NET "adc_d<5>"      LOC = "P55";
+NET "adc_d<4>"      LOC = "P56";
+NET "adc_d<3>"      LOC = "P57";
+NET "adc_d<2>"      LOC = "P58";
+NET "adc_d<1>"      LOC = "P60";
+NET "adc_d<0>"      LOC = "P62";
+
+NET "ck_1356meg"    LOC = "P91";
+NET "ck_1356megb"   LOC = "P93";
+
+NET "cross_hi"      LOC = "P88";
+NET "cross_lo"      LOC = "P87";
+
+NET "pwr_oe4"       LOC = "P86";
+NET "pwr_oe3"       LOC = "P84";
+NET "pwr_oe2"       LOC = "P83";
+NET "pwr_oe1"       LOC = "P82";
+NET "pwr_lo"        LOC = "P81";
+NET "pwr_hi"        LOC = "P80";
+
+NET "ssp_clk"       LOC = "P71";
+
+NET "dbg"           LOC = "P22";

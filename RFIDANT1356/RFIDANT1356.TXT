@@ -1,0 +1,6 @@
+Eagle PCB of a small footprint 13.56Mhz RFID antenna as found on the output
+stage of a PN531 chip inside a USB stick sized ISO14443 card read/writer,
+see attached picture.
+
+This antenna was drawn by measuring the original PCB as closely as possible.
+Uses 12mil drills, 12mil tracks and down to 6mil gaps between traces.
